@@ -23,9 +23,11 @@ HOW TO INSTALL/USE
 -- NOTE --
 
 Python 2.7 must be installed
+
 Install link: https://www.python.org/download/releases/2.7/
 
 If program does still not work, python is most likely not in windows path
+
 Add python to windows path: https://geek-university.com/python/add-python-to-the-windows-path/
 
 1. 
