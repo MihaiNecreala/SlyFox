@@ -42,13 +42,13 @@ Follow the on screen steps to start the attack
 1.  
 Open terminal
 Do commands:
-cd Desktop
+cd Desktop, 
 git clone https://github.com/odx686/SlyFox.git
 
 2.  
 Do commands:
-cd Desktop
-cd SlyFox
+cd Desktop, 
+cd SlyFox, 
 sh SlyFox.sh
 
 3.  
