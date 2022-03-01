@@ -21,6 +21,7 @@ HOW TO INSTALL/USE
 ---Windows
 
 -- NOTE --
+
 Python 2.7 must be installed
 Install link: https://www.python.org/download/releases/2.7/
 
