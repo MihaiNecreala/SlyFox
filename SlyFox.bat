@@ -9,7 +9,6 @@ echo SlyFox Running
 echo.
 echo Launching 5 Instances
 echo.
-pause
 start "" python run.py http://%$INPUT%
 start "" python run.py http://%$INPUT%
 start "" python run.py http://%$INPUT%
