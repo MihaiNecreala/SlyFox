@@ -18,7 +18,7 @@ CITATIONS
 
 HOW TO INSTALL/USE
 	
----Windows
+--- Windows
 
 -- POTENTIAL ISSUES  --
 
@@ -46,7 +46,7 @@ Double click 'SlyFox' (windwos batch file, not sh source file)
 3. 
 Follow the on screen steps to start the attack
 
----Linux
+--- Linux
 
 1.  
 Open terminal
