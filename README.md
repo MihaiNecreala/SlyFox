@@ -20,15 +20,21 @@ HOW TO INSTALL/USE
 	
 ---Windows
 
--- NOTE --
+-- POTENTIAL ISSUES  --
 
 Python 2.7 must be installed
 
 Install link: https://www.python.org/download/releases/2.7/
 
-If program does still not work, python is most likely not in windows path
+If you get an error message saying python was not found, python is most likely not in windows path and on in app execution aliases
 
-Add python to windows path: https://geek-university.com/python/add-python-to-the-windows-path/
+Add python to windows path: 
+
+https://geek-university.com/python/add-python-to-the-windows-path/
+
+Turn python off in app execution aliases: 
+
+Settings ---> Apps ---> Apps & Features ---> App execution aliases, turn off any programs called App Installer with python.exe undernearth
 
 1. 
 Download zip folder from https://github.com/odx686/SlyFox
@@ -37,7 +43,7 @@ Extract the zip folder
 2.   
 Double click 'SlyFox' (windwos batch file, not sh source file)
 
-
+3. 
 Follow the on screen steps to start the attack
 
 ---Linux
@@ -56,4 +62,3 @@ sh SlyFox.sh
 
 3.  
 Follow the on screen steps to start the attack
-
