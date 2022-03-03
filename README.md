@@ -41,7 +41,7 @@ Download zip folder from https://github.com/odx686/SlyFox
 Extract the zip folder
 
 2.   
-Double click 'SlyFox' (windwos batch file, not sh source file)
+Double click 'SlyFox' (windows batch file, not sh source file)
 
 3. 
 Follow the on screen steps to start the attack
